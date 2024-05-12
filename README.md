@@ -1,2 +1,4 @@
 # FPS
-Simple FPS SCRIPT
+Simple FPS Script by AvalonV
+
+Discord.gg/AvalonV
